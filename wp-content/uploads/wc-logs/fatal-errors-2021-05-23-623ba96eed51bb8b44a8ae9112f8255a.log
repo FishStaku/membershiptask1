@@ -1,0 +1,125 @@
+2021-05-23T19:32:19+00:00 CRITICAL Uncaught TypeError: array_intersect_key(): Argument #1 ($array) must be of type array, string given in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php:1411
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1411): array_intersect_key('id', Array)
+#1 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1333): WP_REST_Server->get_data_for_route('/awdp/v1/rules/...', Array, 'view')
+#2 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1223): WP_REST_Server->get_data_for_routes(Array, 'view')
+#3 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1139): WP_REST_Server->get_index(Object(WP_REST_Request))
+#4 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(985): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/', Array, NULL)
+#5 C:\xampp\htdocs\membershiptask\wp-includes\rest-api.php(479): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 C:\xampp\htdocs\membershiptask\wp-includes\rest-api.php(2816): rest_do_request(Object(WP_REST_Request))
+#7 [internal function]: rest_preload_api_request(Array, '/')
+#8 C:\xampp\htdocs\membershiptask\wp-admin\edit-form-blocks.php(82): array_reduce(Array, 'rest_preload_ap...', Array)
+#9 C:\xampp\htdocs\membershiptask\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php on line 1411
+
+2021-05-23T21:51:15+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php:1677
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zipbuddy.php(1439): pluginbuddy_zbzippclzip->create('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...', Array, 'C:\\xampp\\htdocs...', Object(pluginbuddy_zbdir))
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1690): pluginbuddy_zipbuddy->add_directory_to_zip('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...', Array, 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1515): pb_backupbuddy_backup->backup_zip_files_standard()
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('pf6do0s1sf')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('pf6do0s1sf')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php on line 1677
+
+2021-05-23T22:00:48+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php:1677
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zipbuddy.php(1439): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...', Object(pluginbuddy_zbdir))
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1690): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1515): pb_backupbuddy_backup->backup_zip_files_standard()
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('q2vcn78eih')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('q2vcn78eih')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php on line 1677
+
+2021-05-23T22:07:57+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php:1677
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zipbuddy.php(1439): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...', Object(pluginbuddy_zbdir))
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1690): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1515): pb_backupbuddy_backup->backup_zip_files_standard()
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('yjxr5ur1aj')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('yjxr5ur1aj')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php on line 1677
+
+2021-05-23T22:10:59+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php:1868
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zipbuddy.php(2529): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(2051): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1511): pb_backupbuddy_backup->backup_zip_files_alternate(Array)
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('x1atij1vb5')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('x1atij1vb5')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php on line 1868
+
+2021-05-23T22:12:11+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php:1868
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zipbuddy.php(2529): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(2051): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1511): pb_backupbuddy_backup->backup_zip_files_alternate(Array)
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('dvqfkfi5sd')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('dvqfkfi5sd')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php on line 1868
+
+2021-05-23T23:30:01+00:00 CRITICAL Uncaught TypeError: array_intersect_key(): Argument #1 ($array) must be of type array, string given in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php:1411
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1411): array_intersect_key('id', Array)
+#1 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1333): WP_REST_Server->get_data_for_route('/awdp/v1/rules/...', Array, 'view')
+#2 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1223): WP_REST_Server->get_data_for_routes(Array, 'view')
+#3 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1139): WP_REST_Server->get_index(Object(WP_REST_Request))
+#4 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(985): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/', Array, NULL)
+#5 C:\xampp\htdocs\membershiptask\wp-includes\rest-api.php(479): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 C:\xampp\htdocs\membershiptask\wp-includes\rest-api.php(2816): rest_do_request(Object(WP_REST_Request))
+#7 [internal function]: rest_preload_api_request(Array, '/')
+#8 C:\xampp\htdocs\membershiptask\wp-admin\edit-form-blocks.php(82): array_reduce(Array, 'rest_preload_ap...', Array)
+#9 C:\xampp\htdocs\membershiptask\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php on line 1411
+
+2021-05-23T23:55:14+00:00 CRITICAL Uncaught TypeError: array_intersect_key(): Argument #1 ($array) must be of type array, string given in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php:1411
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1411): array_intersect_key('id', Array)
+#1 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1333): WP_REST_Server->get_data_for_route('/awdp/v1/rules/...', Array, 'view')
+#2 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1223): WP_REST_Server->get_data_for_routes(Array, 'view')
+#3 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1139): WP_REST_Server->get_index(Object(WP_REST_Request))
+#4 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(985): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/', Array, NULL)
+#5 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(412): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 C:\xampp\htdocs\membershiptask\wp-includes\rest-api.php(354): WP_REST_Server->serve_request('/')
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): rest_api_loaded(Object(WP))
+#8 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\membershiptask\wp-includes\class-wp.php(388): do_action_ref_array('parse_request', Array)
+#11 C:\xampp\htdocs\membershiptask\wp-includes\class-wp.php(750): WP->parse_request('')
+#12 C:\xampp\htdocs\membershiptask\wp-includes\functions.php(1291): WP->main('')
+#13 C:\xampp\htdocs\membershiptask\wp-blog-header.php(16): wp()
+#14 C:\xampp\htdocs\membershiptask\index.php(17): require('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php on line 1411
+

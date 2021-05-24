@@ -1,0 +1,16 @@
+CREATE TABLE `wp_termmeta` (  `meta_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,  `term_id` bigint(20) unsigned NOT NULL DEFAULT 0,  `meta_key` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,  `meta_value` longtext COLLATE utf8mb4_unicode_ci DEFAULT NULL,  PRIMARY KEY (`meta_id`),  KEY `term_id` (`term_id`),  KEY `meta_key` (`meta_key`(191))) ENGINE=InnoDB AUTO_INCREMENT=24 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40000 ALTER TABLE `wp_termmeta` DISABLE KEYS */;
+SET FOREIGN_KEY_CHECKS = 0;
+SET UNIQUE_CHECKS = 0;
+INSERT INTO `wp_termmeta` VALUES('1', '16', 'order', '0');
+INSERT INTO `wp_termmeta` VALUES('2', '16', 'display_type', '');
+INSERT INTO `wp_termmeta` VALUES('3', '16', 'thumbnail_id', '25');
+INSERT INTO `wp_termmeta` VALUES('4', '17', 'order', '0');
+INSERT INTO `wp_termmeta` VALUES('5', '17', 'display_type', '');
+INSERT INTO `wp_termmeta` VALUES('6', '17', 'thumbnail_id', '24');
+INSERT INTO `wp_termmeta` VALUES('7', '15', 'product_count_product_cat', '0');
+INSERT INTO `wp_termmeta` VALUES('8', '16', 'product_count_product_cat', '3');
+INSERT INTO `wp_termmeta` VALUES('9', '17', 'product_count_product_cat', '3');
+/*!40000 ALTER TABLE `wp_termmeta` ENABLE KEYS */;
+SET FOREIGN_KEY_CHECKS = 1;
+SET UNIQUE_CHECKS = 1;

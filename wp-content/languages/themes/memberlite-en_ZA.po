@@ -1,0 +1,1004 @@
+# Translation of Themes - Memberlite in English (South Africa)
+# This file is distributed under the same license as the Themes - Memberlite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-21 16:19:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_ZA\n"
+"Project-Id-Version: Themes - Memberlite\n"
+
+#. Description of the theme
+msgid "Memberlite is the ideal theme for your membership site - packed with integration for top membership site plugins including Paid Memberships Pro. It's fully customizable with your logo, colors, fonts, custom sidebars and more global layout settings. Extend the site appearance further with icons, masthead banners, post formats, and additional settings for your site's pages. Memberlite is responsive, clean and minimal."
+msgstr "Memberlite is the ideal theme for your membership site - packed with integration for top membership site plugins including Paid Memberships Pro. It's fully customisable with your logo, colours, fonts, custom sidebars and more global layout settings. Extend the site appearance further with icons, masthead banners, post formats, and additional settings for your site's pages. Memberlite is responsive, clean and minimal."
+
+#. Theme Name of the theme
+#: inc/admin.php:392
+msgid "Memberlite"
+msgstr "Memberlite"
+
+#: inc/integrations/paid-memberships-pro.php:88
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: inc/integrations/paid-memberships-pro.php:86
+msgid "Lost Password"
+msgstr "Lost Password"
+
+#: inc/integrations/paid-memberships-pro.php:84
+msgid "Welcome"
+msgstr "Welcome"
+
+#: inc/customizer.php:551
+msgid "Header Background Color"
+msgstr "Header Background Colour"
+
+#: inc/customizer.php:183 inc/customizer.php:207
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: inc/extras.php:867
+msgid "permalink"
+msgstr "permalink"
+
+#: inc/extras.php:856
+msgid "Comments Off"
+msgstr "Comments Off"
+
+#: inc/extras.php:822
+msgid "No Category"
+msgstr "No Category"
+
+#: inc/admin.php:63
+msgid "Docs: Customizing Memberlite"
+msgstr "Docs: Customising Memberlite"
+
+#: inc/admin.php:55
+msgid "Docs: Site Branding in Memberlite"
+msgstr "Docs: Site Branding in Memberlite"
+
+#: inc/customizer.php:98
+msgid "Stick Menu to Top of Screen on Scroll"
+msgstr "Stick Menu to Top of Screen on Scroll"
+
+#. Template Name of the theme
+msgid "Blank"
+msgstr "Blank"
+
+#. Template Name of the theme
+msgid "Sidebar/Content"
+msgstr "Sidebar/Content"
+
+#. Template Name of the theme
+msgid "Narrow Width"
+msgstr "Narrow Width"
+
+#. Template Name of the theme
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#. Template Name of the theme
+msgid "Interstitial Page"
+msgstr "Interstitial Page"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Full Width"
+
+#. Template Name of the theme
+msgid "Fluid Width"
+msgstr "Fluid Width"
+
+#. Template Name of the theme
+msgid "Content/Sidebar"
+msgstr "Content/Sidebar"
+
+#: single-testimonials-widget.php:18
+msgid "View All Testimonials"
+msgstr "View All Testimonials"
+
+#: inc/widgets.php:144
+msgid "Display post date?"
+msgstr "Display post date?"
+
+#: inc/widgets.php:140
+msgid "Number of posts to show:"
+msgstr "Number of posts to show:"
+
+#: inc/widgets.php:137
+msgid "Title:"
+msgstr "Title:"
+
+#: inc/widgets.php:18
+msgid "Recent Posts w/Thumbnails"
+msgstr "Recent Posts w/Thumbnails"
+
+#: inc/widgets.php:16
+msgid "Your site&#8217;s most recent Posts with Thumbnails."
+msgstr "Your site&#8217;s most recent Posts with Thumbnails."
+
+#: inc/template-tags.php:134
+msgid "Page navigation"
+msgstr "Page navigation"
+
+#: inc/template-tags.php:67
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:66
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:63
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:40
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:36
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:32
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/extras.php:845
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/extras.php:840
+msgid "No Comments"
+msgstr "No Comments"
+
+#: inc/extras.php:818 inc/extras.php:876
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:733
+msgid "Search Results For"
+msgstr "Search Results For"
+
+#: inc/extras.php:500 inc/extras.php:548 inc/extras.php:570 inc/extras.php:600
+#: inc/extras.php:611 inc/extras.php:695 inc/extras.php:710 inc/extras.php:722
+msgid "Home"
+msgstr "Home"
+
+#: inc/extras.php:396
+msgid "404: Page Not Found"
+msgstr "404: Page Not Found"
+
+#. translators: %s: search keywords
+#: inc/extras.php:362
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/extras.php:687
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/extras.php:684
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/extras.php:681
+msgid "Audios"
+msgstr "Audios"
+
+#: inc/extras.php:678
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/extras.php:675
+msgid "Links"
+msgstr "Links"
+
+#: inc/extras.php:672
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/extras.php:669
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/extras.php:666
+msgid "Images"
+msgstr "Images"
+
+#: inc/extras.php:663
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/extras.php:660
+msgid "Asides"
+msgstr "Asides"
+
+#. translators: %s: year for the viewed archive
+#: inc/extras.php:657
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: year for the viewed archive
+#: inc/extras.php:657
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#. translators: %s: month for the viewed archive
+#: inc/extras.php:653
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: month for the viewed archive
+#: inc/extras.php:653
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#. translators: %s: day for the viewed archive
+#: inc/extras.php:649
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#. translators: %s: current author archive's name
+#: inc/extras.php:645
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#. translators: %s: current tag archive's single title
+#: inc/extras.php:641
+msgid "Posts Tagged: %s"
+msgstr "Posts Tagged: %s"
+
+#: inc/extras.php:334
+msgid "Forums"
+msgstr "Forums"
+
+#. translators: %s: bbPress user profile display name
+#: inc/extras.php:332
+msgid "%s's Profile"
+msgstr "%s's Profile"
+
+#: inc/extras.php:327
+msgid "Forum Search"
+msgstr "Forum Search"
+
+#. translators: %s: bbPress forum search terms
+#: inc/extras.php:325
+msgid "Forum Search Results for: %s"
+msgstr "Forum Search Results for: %s"
+
+#: inc/extras.php:175
+msgid "(more...)"
+msgstr "(more...)"
+
+#. translators: 1: the old hook name, 2: the new or replacement hook name
+#: inc/deprecated.php:64
+msgid "The %1$s hook has been deprecated since version 3.1 of Memberlite. Please use the %2$s hook instead."
+msgstr "The %1$s hook has been deprecated since version 3.1 of Memberlite. Please use the %2$s hook instead."
+
+#: inc/defaults.php:14
+msgid "Theme: Memberlite by Kim Coleman"
+msgstr "Theme: Memberlite by Kim Coleman"
+
+#: inc/defaults.php:14
+msgid "Proudly powered by WordPress"
+msgstr "Proudly powered by WordPress"
+
+#: inc/defaults.php:12
+msgid "This entry was posted in {post_categories} and tagged {post_tags}. Bookmark the {post_permalink}."
+msgstr "This entry was posted in {post_categories} and tagged {post_tags}. Bookmark the {post_permalink}."
+
+#: inc/defaults.php:11
+msgid "Posted on {post_date} by {post_author_posts_link}"
+msgstr "Posted on {post_date} by {post_author_posts_link}"
+
+#: inc/customizer.php:1141
+msgid "Watermelon Seed"
+msgstr "Watermelon Seed"
+
+#: inc/customizer.php:1126
+msgid "Slate Blue"
+msgstr "Slate Blue"
+
+#: inc/customizer.php:1111
+msgid "Raspberry Lime"
+msgstr "Raspberry Lime"
+
+#: inc/customizer.php:1096
+msgid "Not So Primary"
+msgstr "Not So Primary"
+
+#: inc/customizer.php:1081
+msgid "Pop!"
+msgstr "Pop!"
+
+#: inc/customizer.php:1066
+msgid "Mono Pink"
+msgstr "Mono Pink"
+
+#: inc/customizer.php:1051
+msgid "Mono Orange"
+msgstr "Mono Orange"
+
+#: inc/customizer.php:1036
+msgid "Mono Green"
+msgstr "Mono Green"
+
+#: inc/customizer.php:1021
+msgid "Mono Blue"
+msgstr "Mono Blue"
+
+#: inc/customizer.php:1006
+msgid "Modern Teal"
+msgstr "Modern Teal"
+
+#: inc/customizer.php:991
+msgid "Education"
+msgstr "Education"
+
+#: inc/customizer.php:976
+msgid "Default"
+msgstr "Default"
+
+#: inc/customizer.php:939
+msgid "Verdana"
+msgstr "Verdana"
+
+#: inc/customizer.php:938
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: inc/customizer.php:937
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: inc/customizer.php:936
+msgid "Times"
+msgstr "Times"
+
+#: inc/customizer.php:935
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: inc/customizer.php:934
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/customizer.php:933
+msgid "Garamond"
+msgstr "Garamond"
+
+#: inc/customizer.php:932
+msgid "Courier New"
+msgstr "Courier New"
+
+#: inc/customizer.php:931
+msgid "Courier"
+msgstr "Courier"
+
+#: inc/customizer.php:930
+msgid "Bookman"
+msgstr "Bookman"
+
+#: inc/customizer.php:929
+msgid "Arial"
+msgstr "Arial"
+
+#: inc/customizer.php:920
+msgid "Oswald and PT Mono"
+msgstr "Oswald and PT Mono"
+
+#: inc/customizer.php:919
+msgid "Open Sans and Gentium Book Basic"
+msgstr "Open Sans and Gentium Book Basic"
+
+#: inc/customizer.php:918
+msgid "Abril Fatface and Open Sans"
+msgstr "Abril Fatface and Open Sans"
+
+#: inc/customizer.php:917
+msgid "Oswald and Quattrocento"
+msgstr "Oswald and Quattrocento"
+
+#: inc/customizer.php:916
+msgid "Playfair Display and Open Sans"
+msgstr "Playfair Display and Open Sans"
+
+#: inc/customizer.php:915
+msgid "Lato and Merriweather"
+msgstr "Lato and Merriweather"
+
+#: inc/customizer.php:914
+msgid "Roboto Slab and Roboto"
+msgstr "Roboto Slab and Roboto"
+
+#: inc/customizer.php:913
+msgid "Lato and Source Sans Pro"
+msgstr "Lato and Source Sans Pro"
+
+#: inc/customizer.php:912
+msgid "Ubuntu and Open Sans"
+msgstr "Ubuntu and Open Sans"
+
+#: inc/customizer.php:911
+msgid "Oswald and Lato"
+msgstr "Oswald and Lato"
+
+#: inc/customizer.php:910
+msgid "Pathway Gothic One and Source Sans Pro"
+msgstr "Pathway Gothic One and Source Sans Pro"
+
+#: inc/customizer.php:909
+msgid "Fjalla One and Noto Sans"
+msgstr "Fjalla One and Noto Sans"
+
+#: inc/customizer.php:908
+msgid "PT Sans and PT Serif"
+msgstr "PT Sans and PT Serif"
+
+#: inc/customizer.php:907
+msgid "Lato"
+msgstr "Lato"
+
+#: inc/customizer.php:748
+msgid "Display Site Title &amp; Tagline"
+msgstr "Display Site Title &amp; Tagline"
+
+#: inc/customizer.php:745
+msgid "Site Title &amp; Tagline Color"
+msgstr "Site Title &amp; Tagline Colour"
+
+#: functions.php:313 inc/customizer.php:712
+msgid "Action Color"
+msgstr "Action Colour"
+
+#: functions.php:308 inc/customizer.php:689
+msgid "Secondary Color"
+msgstr "Secondary Colour"
+
+#: functions.php:303 inc/customizer.php:666
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: inc/customizer.php:643
+msgid "Meta Link Color"
+msgstr "Meta Link Colour"
+
+#: inc/customizer.php:620
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: inc/customizer.php:597
+msgid "Primary Navigation Color"
+msgstr "Primary Navigation Colour"
+
+#: inc/customizer.php:574
+msgid "Primary Navigation Background Color"
+msgstr "Primary Navigation Background Colour"
+
+#: inc/customizer.php:530
+msgid "Use Dark Background/Inverted Scheme"
+msgstr "Use Dark Background/Inverted Scheme"
+
+#: inc/customizer.php:504
+msgid "Color Scheme"
+msgstr "Colour Scheme"
+
+#: inc/customizer.php:485
+msgid "Show Back to Top Link"
+msgstr "Show Back to Top Link"
+
+#: inc/customizer.php:465
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: inc/customizer.php:445
+msgid "Breadcrumb Delimiter"
+msgstr "Breadcrumb Delimiter"
+
+#: inc/customizer.php:426
+msgid "6"
+msgstr "6"
+
+#: inc/customizer.php:425
+msgid "4"
+msgstr "4"
+
+#: inc/customizer.php:424
+msgid "3"
+msgstr "3"
+
+#: inc/customizer.php:423
+msgid "2"
+msgstr "2"
+
+#: inc/customizer.php:400
+msgid "Post Entry Meta (after)"
+msgstr "Post Entry Meta (after)"
+
+#: inc/customizer.php:380
+msgid "Post Entry Meta (before)"
+msgstr "Post Entry Meta (before)"
+
+#: inc/customizer.php:359
+msgid "Featured Images on Posts Page and Archives"
+msgstr "Featured Images on Posts Page and Archives"
+
+#: inc/customizer.php:353
+msgid "Show Banner and Thumbnail"
+msgstr "Show Banner and Thumbnail"
+
+#: inc/customizer.php:348
+msgid "Show Thumbnail Only"
+msgstr "Show Thumbnail Only"
+
+#: inc/customizer.php:347
+msgid "Show Banner Only"
+msgstr "Show Banner Only"
+
+#: inc/customizer.php:346
+msgid "Do Not Show Featured Images"
+msgstr "Do Not Show Featured Images"
+
+#: inc/customizer.php:328
+msgid "Show Prev/Next on Single Pages"
+msgstr "Show Prev/Next on Single Pages"
+
+#: inc/customizer.php:270
+msgid "Breadcrumbs on Profiles"
+msgstr "Breadcrumbs on Profiles"
+
+#: inc/customizer.php:264
+msgid "Breadcrumbs on Search Results"
+msgstr "Breadcrumbs on Search Results"
+
+#: inc/customizer.php:258
+msgid "Breadcrumbs on Attachments"
+msgstr "Breadcrumbs on Attachments"
+
+#: inc/customizer.php:252
+msgid "Breadcrumbs on Archives"
+msgstr "Breadcrumbs on Archives"
+
+#: inc/customizer.php:246
+msgid "Breadcrumbs on Posts"
+msgstr "Breadcrumbs on Posts"
+
+#: inc/customizer.php:240
+msgid "Breadcrumbs on Pages"
+msgstr "Breadcrumbs on Pages"
+
+#: inc/customizer.php:230
+msgid "Show Post Excerpts"
+msgstr "Show Post Excerpts"
+
+#: inc/customizer.php:229
+msgid "Show Post Content"
+msgstr "Show Post Content"
+
+#: inc/customizer.php:225
+msgid "Content Archives"
+msgstr "Content Archives"
+
+#: inc/customizer.php:201
+msgid "Layout for Blog, Archive, Posts"
+msgstr "Layout for Blog, Archive, Posts"
+
+#: inc/customizer.php:182 inc/customizer.php:206
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: inc/customizer.php:181 inc/customizer.php:205
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/customizer.php:177
+msgid "Default Layout"
+msgstr "Default Layout"
+
+#: inc/customizer.php:159
+msgid "11x1"
+msgstr "11x1"
+
+#: inc/customizer.php:158
+msgid "10x2"
+msgstr "10x2"
+
+#: inc/customizer.php:157
+msgid "9x3"
+msgstr "9x3"
+
+#: inc/customizer.php:156
+msgid "8x4"
+msgstr "8x4"
+
+#: inc/customizer.php:155
+msgid "7x5"
+msgstr "7x5"
+
+#: inc/customizer.php:154
+msgid "6x6"
+msgstr "6x6"
+
+#: inc/customizer.php:150
+msgid "Columns Ratio - Primary"
+msgstr "Columns Ratio - Primary"
+
+#: inc/customizer.php:117
+msgid "Columns Ratio - Header"
+msgstr "Columns Ratio - Header"
+
+#: inc/customizer.php:77
+msgid "Show Search Form After Main Nav"
+msgstr "Show Search Form After Main Nav"
+
+#: inc/customizer.php:58
+msgid "Show Login/Member Info in Header"
+msgstr "Show Login/Member Info in Header"
+
+#: inc/customizer.php:37
+msgid "Font"
+msgstr "Font"
+
+#: inc/customizer.php:21
+msgid "Allows you to customize settings for Memberlite."
+msgstr "Allows you to customise settings for Memberlite."
+
+#: inc/customizer.php:19
+msgid "Memberlite Options"
+msgstr "Memberlite Options"
+
+#: inc/admin.php:396
+msgid "Click here to view the Memberlite welcome page."
+msgstr "Click here to view the Memberlite welcome page."
+
+#: inc/admin.php:394
+msgid "We have documentation and recommended plugins to help you get started with Memberlite Theme."
+msgstr "We have documentation and recommended plugins to help you get started with Memberlite Theme."
+
+#: inc/admin.php:332
+msgid "Automattic"
+msgstr "Automattic"
+
+#: inc/admin.php:331
+msgid "Install Paid Memberships Pro - WooCommerce Add On"
+msgstr "Install Paid Memberships Pro - WooCommerce Add On"
+
+#: inc/admin.php:330
+msgid "WooCommerce is a powerful, extendable eCommerce plugin that helps you sell anything. Beautifully."
+msgstr "WooCommerce is a powerful, extendable eCommerce plugin that helps you sell anything. Beautifully."
+
+#: inc/admin.php:320
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin.php:310
+msgid "Axelerant"
+msgstr "Axelerant"
+
+#: inc/admin.php:309
+msgid "Easily add social proofing to your website with Testimonials Widget. List or slide reviews via functions, shortcodes, or widgets."
+msgstr "Easily add social proofing to your website with Testimonials Widget. List or slide reviews via functions, shortcodes, or widgets."
+
+#: inc/admin.php:298
+msgid "Testimonials Widget"
+msgstr "Testimonials Widget"
+
+#: inc/admin.php:267
+msgid "Marcus Sykes"
+msgstr "Marcus Sykes"
+
+#: inc/admin.php:266
+msgid "Fully featured event registration management including recurring events, locations management, calendar, Google map integration, booking management"
+msgstr "Fully featured event registration management including recurring events, locations management, calendar, Google map integration, booking management"
+
+#: inc/admin.php:256
+msgid "Events Manager"
+msgstr "Events Manager"
+
+#: inc/admin.php:245
+msgid "Install Paid Memberships Pro - bbPress Add On"
+msgstr "Install Paid Memberships Pro - bbPress Add On"
+
+#: inc/admin.php:244
+msgid "bbPress is forum software, made the WordPress way."
+msgstr "bbPress is forum software, made the WordPress way."
+
+#: inc/admin.php:234
+msgid "bbPress"
+msgstr "bbPress"
+
+#: inc/admin.php:206
+msgid "Chris Scott"
+msgstr "Chris Scott"
+
+#: inc/admin.php:205
+msgid "Adds multiple post thumbnails to a post type. Required if you want to use the banner image/thumbnail features in Memberlite."
+msgstr "Adds multiple post thumbnails to a post type. Required if you want to use the banner image/thumbnail features in Memberlite."
+
+#: inc/admin.php:189
+msgid "Multiple Post Thumbnails"
+msgstr "Multiple Post Thumbnails"
+
+#: inc/admin.php:178 inc/admin.php:287
+msgid "A revenue-generating machine for membership sites. Unlimited levels with recurring payment, protected content and member management."
+msgstr "A revenue-generating machine for membership sites. Unlimited levels with recurring payment, protected content and member management."
+
+#: inc/admin.php:162 inc/admin.php:179 inc/admin.php:277 inc/admin.php:288
+msgid "Paid Memberships Pro"
+msgstr "Paid Memberships Pro"
+
+#: inc/admin.php:151
+msgid "Enhance the appearance of your content with shortcodes for Accordions, Banners, Buttons, Columns, Icons, Member Signup, Messages, and Recent Posts."
+msgstr "Enhance the appearance of your content with shortcodes for Accordions, Banners, Buttons, Columns, Icons, Member Signup, Messages, and Recent Posts."
+
+#: inc/admin.php:135
+msgid "Memberlite Shortcodes"
+msgstr "Memberlite Shortcodes"
+
+#: inc/admin.php:125 inc/admin.php:152 inc/admin.php:179 inc/admin.php:206
+#: inc/admin.php:246 inc/admin.php:267 inc/admin.php:288 inc/admin.php:310
+#: inc/admin.php:332
+msgid "By"
+msgstr "By"
+
+#: inc/admin.php:124
+msgid "Improved features and control for your Memberlite banners, sidebars, and landing pages."
+msgstr "Improved features and control for your Memberlite banners, sidebars, and landing pages."
+
+#: inc/admin.php:120 inc/admin.php:147 inc/admin.php:174 inc/admin.php:201
+#: inc/admin.php:240 inc/admin.php:262 inc/admin.php:283 inc/admin.php:304
+#: inc/admin.php:326
+msgid "More Details"
+msgstr "More Details"
+
+#: inc/admin.php:117 inc/admin.php:144 inc/admin.php:171 inc/admin.php:198
+#: inc/admin.php:239 inc/admin.php:261 inc/admin.php:282 inc/admin.php:303
+#: inc/admin.php:325
+msgid "Install Now"
+msgstr "Install Now"
+
+#: inc/admin.php:115 inc/admin.php:142 inc/admin.php:169 inc/admin.php:196
+msgid "Installed"
+msgstr "Installed"
+
+#: inc/admin.php:108
+msgid "Memberlite Elements"
+msgstr "Memberlite Elements"
+
+#: inc/admin.php:102
+msgid "Plugins list"
+msgstr "Plugins list"
+
+#. translators: Active theme name
+#: inc/admin.php:98
+msgid "We highly recommend using these plugins for every site running %s:"
+msgstr "We highly recommend using these plugins for every site running %s:"
+
+#: inc/admin.php:71
+msgid "View All Docs and Get Support"
+msgstr "View All Docs and Get Support"
+
+#: inc/admin.php:70
+msgid "View Theme Demo"
+msgstr "View Theme Demo"
+
+#: inc/admin.php:68
+msgid "We offer a simple annual support membership if you need additional help with your Memberlite-powered WordPress site."
+msgstr "We offer a simple annual support membership if you need additional help with your Memberlite-powered WordPress site."
+
+#: inc/admin.php:67
+msgid "Theme Demo, Docs and Support"
+msgstr "Theme Demo, Docs and Support"
+
+#: inc/admin.php:86
+msgid "Download a Blank Child Theme"
+msgstr "Download a Blank Child Theme"
+
+#: inc/admin.php:84
+msgid "Using Child Themes"
+msgstr "Using Child Themes"
+
+#: inc/admin.php:62
+msgid "Customize Your Theme"
+msgstr "Customise Your Theme"
+
+#: inc/admin.php:60
+msgid "Use the Customize > Memberlite Options screen to modify theme layout, logo, fonts, colors, copyright message and more."
+msgstr "Use the Customise > Memberlite Options screen to modify theme layout, logo, fonts, colours, copyright message and more."
+
+#: inc/admin.php:59
+msgid "Customize the Theme"
+msgstr "Customise the Theme"
+
+#: inc/admin.php:54
+msgid "Add Your Logo"
+msgstr "Add Your Logo"
+
+#: inc/admin.php:52
+msgid "Use the Customize > Site Identity screen to add a custom logo and update or toggle the display of your Site Title and Tagline."
+msgstr "Use the Customise > Site Identity screen to add a custom logo and update or toggle the display of your Site Title and Tagline."
+
+#: inc/admin.php:51
+msgid "Adding Your Logo"
+msgstr "Adding Your Logo"
+
+#. translators: Memberlite version number
+#: inc/admin.php:46
+msgid "Version %s"
+msgstr "Version %s"
+
+#: inc/admin.php:42
+msgid "Memberlite is the ideal theme for your membership site - packed with integration for top membership site plugins including Paid Memberships Pro. It's fully customizable with your logo, colors, fonts, custom sidebars and more global layout settings."
+msgstr "Memberlite is the ideal theme for your membership site - packed with integration for top membership site plugins including Paid Memberships Pro. It's fully customisable with your logo, colours, fonts, custom sidebars and more global layout settings."
+
+#: inc/admin.php:41
+msgid "Welcome to the Memberlite Theme"
+msgstr "Welcome to the Memberlite Theme"
+
+#: inc/admin.php:23
+msgid "Main content"
+msgstr "Main content"
+
+#: inc/admin.php:12
+msgid "Memberlite Guide"
+msgstr "Memberlite Guide"
+
+#: inc/admin.php:12
+msgid "Memberlite Documentation and Support"
+msgstr "Memberlite Documentation and Support"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:429 functions.php:461
+msgid "Register"
+msgstr "Register"
+
+#: functions.php:424 functions.php:456
+msgid "Log In"
+msgstr "Log In"
+
+#: functions.php:418 functions.php:421 functions.php:453
+msgid "Log Out"
+msgstr "Log Out"
+
+#: functions.php:395
+msgid "Mobile Menu Widgets"
+msgstr "Mobile Menu Widgets"
+
+#: functions.php:384 inc/customizer.php:419
+msgid "Footer Widgets"
+msgstr "Footer Widgets"
+
+#: functions.php:362
+msgid "Header Right"
+msgstr "Header Right"
+
+#: functions.php:351
+msgid "Pages"
+msgstr "Pages"
+
+#: functions.php:340
+msgid "Posts and Archives"
+msgstr "Posts and Archives"
+
+#: functions.php:216
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:215
+msgid "Meta"
+msgstr "Meta"
+
+#: functions.php:214
+msgid "Member - Logged Out"
+msgstr "Member - Logged Out"
+
+#: functions.php:213
+msgid "Member"
+msgstr "Member"
+
+#: functions.php:212
+msgid "Primary"
+msgstr "Primary"
+
+#: components/post/content-status.php:16
+msgid "Continue Reading"
+msgstr "Continue Reading"
+
+#: components/post/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: components/post/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#. translators: a link shown to users with the publish_posts capability to
+#. create a new post in the dashboard
+#: components/post/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: components/post/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: components/page/content-page.php:33 components/page/content-landing.php:31
+#: components/page/content-interstitial.php:28
+#: components/post/content-status.php:31 components/post/content-audio.php:46
+#: components/post/content.php:60 components/post/content-video.php:47
+#: components/post/content-quote.php:51 components/post/content-link.php:23
+#: components/post/content-image.php:34 components/post/content-single.php:46
+msgid "Edit"
+msgstr "Edit"
+
+#: components/page/content-page.php:16 components/page/content-landing.php:16
+#: components/page/content-interstitial.php:18
+#: components/post/content-audio.php:28 components/post/content.php:46
+#: components/post/content-video.php:28 components/post/content-single.php:30
+msgid "Pages:"
+msgstr "Pages:"
+
+#. translators: a generated link to the user's account or profile page
+#: components/header/meta-member.php:24
+msgid "Welcome, %s"
+msgstr "Welcome, %s"
+
+#: components/header/masthead.php:29
+msgid "No Thanks &raquo;"
+msgstr "No Thanks &raquo;"
+
+#: components/footer/site-info.php:38
+msgid "Back to Top"
+msgstr "Back to Top"
+
+#. translators: number of pingbacks
+#: comments.php:97
+msgid "Pingbacks (%s)"
+msgstr "Pingbacks (%s)"
+
+#. translators: %s: number of trackbacks
+#: comments.php:88
+msgid "Trackbacks (%s)"
+msgstr "Trackbacks (%s)"
+
+#: comments.php:70 comments.php:121
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#. translators: %s: number of comments
+#: comments.php:52 comments.php:79
+msgid "Comments (%s)"
+msgstr "Comments (%s)"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the theme
+msgid "https://www.strangerstudios.com"
+msgstr "https://www.strangerstudios.com"
+
+#. Theme URI of the theme
+msgid "https://memberlitetheme.com/"
+msgstr "https://memberlitetheme.com/"
+
+#. Author of the theme
+#: inc/admin.php:125 inc/admin.php:152
+msgid "Stranger Studios"
+msgstr "Stranger Studios"

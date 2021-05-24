@@ -1,0 +1,939 @@
+[2021-05-23 23:39:22] [LOG] Plugin has been activated
+[2021-05-23 23:39:26] [ERROR] Shuted down
+[2021-05-23 23:39:26] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:26] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:26] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:26] [ERROR] Shuted down
+[2021-05-23 23:39:26] [ERROR] Shuted down
+[2021-05-23 23:39:26] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:26] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:26] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:26] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:26] [ERROR] Shuted down
+[2021-05-23 23:39:26] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:26] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:26] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:26] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:26] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:26] [ERROR] Shuted down
+[2021-05-23 23:39:26] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:27] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:27] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:27] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:27] [ERROR] Shuted down
+[2021-05-23 23:39:27] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:27] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:27] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:27] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:27] [ERROR] Shuted down
+[2021-05-23 23:39:27] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:27] [ERROR] Shuted down
+[2021-05-23 23:39:27] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:27] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:27] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:27] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:27] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:27] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:27] [ERROR] Shuted down
+[2021-05-23 23:39:27] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:27] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:27] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:27] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:27] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:30] [ERROR] Shuted down
+[2021-05-23 23:39:30] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:30] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:30] [ERROR] Shuted down
+[2021-05-23 23:39:30] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:30] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:30] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:30] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:30] [ERROR] Shuted down
+[2021-05-23 23:39:30] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:30] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:30] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:30] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:30] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:30] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:31] [ERROR] Shuted down
+[2021-05-23 23:39:31] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:31] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:31] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:31] [ERROR] Shuted down
+[2021-05-23 23:39:31] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:31] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:31] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:31] [ERROR] Shuted down
+[2021-05-23 23:39:31] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:31] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:31] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:31] [ERROR] Shuted down
+[2021-05-23 23:39:31] [ERROR] Shuted down
+[2021-05-23 23:39:31] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:31] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:31] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:31] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:31] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:31] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:31] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:31] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:31] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:36] [ERROR] Shuted down
+[2021-05-23 23:39:36] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:36] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:36] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:36] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:43] [ERROR] Shuted down
+[2021-05-23 23:39:43] [ERROR] Shuted down
+[2021-05-23 23:39:43] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:43] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:43] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:43] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:43] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:43] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:43] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:43] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:43] [ERROR] Shuted down
+[2021-05-23 23:39:43] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:43] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:43] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:43] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:45] [ERROR] Shuted down
+[2021-05-23 23:39:45] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:45] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:45] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:45] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:46] [ERROR] Shuted down
+[2021-05-23 23:39:46] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:46] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:46] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:46] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:48] [ERROR] Shuted down
+[2021-05-23 23:39:48] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:48] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:48] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:48] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:48] [LOG] Creating backup 
+[2021-05-23 23:39:48] [LOG] Found 6898 files to backup.
+[2021-05-23 23:39:53] [ERROR] Shuted down
+[2021-05-23 23:39:53] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:53] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:53] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:53] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:39:59] [ERROR] Shuted down
+[2021-05-23 23:39:59] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:39:59] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:39:59] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:39:59] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:04] [ERROR] Shuted down
+[2021-05-23 23:40:04] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:04] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:04] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:04] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:09] [ERROR] Shuted down
+[2021-05-23 23:40:09] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:09] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:09] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:09] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:15] [ERROR] Shuted down
+[2021-05-23 23:40:15] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:15] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:15] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:15] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:21] [ERROR] Shuted down
+[2021-05-23 23:40:21] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:21] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:21] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:21] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:26] [ERROR] Shuted down
+[2021-05-23 23:40:26] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:26] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:26] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:31] [ERROR] Shuted down
+[2021-05-23 23:40:31] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:31] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:31] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:37] [ERROR] Shuted down
+[2021-05-23 23:40:37] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:37] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:37] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:42] [ERROR] Shuted down
+[2021-05-23 23:40:42] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:42] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:42] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:42] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:42] [LOG] New backup created and its name is: BM_Backup_2021-05-23_23_39_47_6243.zip
+[2021-05-23 23:40:42] [ERROR] Shuted down
+[2021-05-23 23:40:42] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:42] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:42] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:42] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:45] [ERROR] Shuted down
+[2021-05-23 23:40:45] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:45] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:45] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:45] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:47] [ERROR] Shuted down
+[2021-05-23 23:40:47] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:47] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:47] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:47] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:52] [ERROR] Shuted down
+[2021-05-23 23:40:52] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:52] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:52] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:52] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:40:57] [ERROR] Shuted down
+[2021-05-23 23:40:57] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:40:57] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:40:57] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:40:57] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:02] [ERROR] Shuted down
+[2021-05-23 23:41:02] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:02] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:02] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:08] [ERROR] Shuted down
+[2021-05-23 23:41:08] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:08] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:08] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:08] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:13] [ERROR] Shuted down
+[2021-05-23 23:41:13] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:13] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:13] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:13] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:18] [ERROR] Shuted down
+[2021-05-23 23:41:18] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:18] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:18] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:18] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:24] [ERROR] Shuted down
+[2021-05-23 23:41:24] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:24] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:24] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:24] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:29] [ERROR] Shuted down
+[2021-05-23 23:41:29] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:29] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:29] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:29] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:34] [ERROR] Shuted down
+[2021-05-23 23:41:34] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:34] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:34] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:34] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:39] [ERROR] Shuted down
+[2021-05-23 23:41:39] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:39] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:39] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:39] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:44] [ERROR] Shuted down
+[2021-05-23 23:41:44] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:44] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:44] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:44] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:49] [ERROR] Shuted down
+[2021-05-23 23:41:49] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:49] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:49] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:49] [ERROR] Shuted down
+[2021-05-23 23:41:49] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:49] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:49] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:54] [ERROR] Shuted down
+[2021-05-23 23:41:54] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:54] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:54] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:54] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:41:59] [ERROR] Shuted down
+[2021-05-23 23:41:59] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:41:59] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:41:59] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:41:59] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:02] [ERROR] Shuted down
+[2021-05-23 23:42:02] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:02] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:02] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:05] [ERROR] Shuted down
+[2021-05-23 23:42:05] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:05] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:05] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:05] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:10] [ERROR] Shuted down
+[2021-05-23 23:42:10] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:10] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:10] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:10] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:15] [ERROR] Shuted down
+[2021-05-23 23:42:15] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:15] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:15] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:15] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:38] [ERROR] Shuted down
+[2021-05-23 23:42:38] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:38] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:38] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:38] [ERROR] Shuted down
+[2021-05-23 23:42:38] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:38] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:38] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:38] [ERROR] Shuted down
+[2021-05-23 23:42:38] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:38] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:38] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:38] [ERROR] Shuted down
+[2021-05-23 23:42:38] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:38] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:38] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:38] [ERROR] Shuted down
+[2021-05-23 23:42:38] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:38] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:38] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:38] [ERROR] Shuted down
+[2021-05-23 23:42:38] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:39] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:39] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:39] [ERROR] Shuted down
+[2021-05-23 23:42:39] [ERROR] Shuted down
+[2021-05-23 23:42:39] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:39] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:39] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:39] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:39] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:39] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:39] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:39] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:39] [ERROR] Shuted down
+[2021-05-23 23:42:39] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:39] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:39] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:39] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:43] [ERROR] Shuted down
+[2021-05-23 23:42:43] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:43] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:43] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:43] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:48] [ERROR] Shuted down
+[2021-05-23 23:42:48] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:48] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:48] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:48] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:53] [ERROR] Shuted down
+[2021-05-23 23:42:53] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:53] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:53] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:53] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:42:58] [ERROR] Shuted down
+[2021-05-23 23:42:58] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:42:58] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:42:58] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:42:58] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:04] [ERROR] Shuted down
+[2021-05-23 23:43:04] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:04] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:04] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:04] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:09] [ERROR] Shuted down
+[2021-05-23 23:43:09] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:09] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:09] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:09] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:14] [ERROR] Shuted down
+[2021-05-23 23:43:14] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:14] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:14] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:19] [ERROR] Shuted down
+[2021-05-23 23:43:19] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:19] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:19] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:19] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:25] [ERROR] Shuted down
+[2021-05-23 23:43:25] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:25] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:25] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:30] [ERROR] Shuted down
+[2021-05-23 23:43:30] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:30] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:30] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:30] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:35] [ERROR] Shuted down
+[2021-05-23 23:43:35] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:35] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:35] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:35] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670
+[2021-05-23 23:43:40] [ERROR] Shuted down
+[2021-05-23 23:43:40] [ERROR] Array
+(
+    [type] => 8192
+    [message] => Required parameter $isCLI follows optional parameter $cron
+    [file] => C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php
+    [line] => 670
+)
+
+[2021-05-23 23:43:40] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2021-05-23 23:43:40] [ERROR] Error message: Required parameter $isCLI follows optional parameter $cron
+[2021-05-23 23:43:40] [ERROR] Error file/line: C:\xampp\htdocs\membershiptask\wp-content\plugins\backup-backup\includes\ajax.php|670

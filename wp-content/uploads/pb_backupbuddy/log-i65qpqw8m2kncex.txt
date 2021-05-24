@@ -1,0 +1,74 @@
+PHP_ERROR Error #32893. Fatal PHP error encountered:type => 1; message => Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php:1677
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zipbuddy.php(1439): pluginbuddy_zbzippclzip->create('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...', Array, 'C:\\xampp\\htdocs...', Object(pluginbuddy_zbdir))
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1690): pluginbuddy_zipbuddy->add_directory_to_zip('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...', Array, 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1515): pb_backupbuddy_backup->backup_zip_files_standard()
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('pf6do0s1sf')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('pf6do0s1sf')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown; file => C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php; line => 1677; .
+[May 23, 2021 23:59:58 2-error] [] Error #389434. Integrity test FAILED. Test: `Database SQL file`.
+[May 23, 2021 23:59:58 2-error] [] Error #389434. Integrity test FAILED. Test: `Database SQL file`.
+[May 24, 2021 00:00:00 2-error] [] Error #389434. Integrity test FAILED. Test: `Database SQL file`.
+[May 24, 2021 00:00:06 2-error] [] Error #389434. Integrity test FAILED. Test: `Database SQL file`.
+PHP_ERROR Error #32893. Fatal PHP error encountered:type => 1; message => Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php:1677
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zipbuddy.php(1439): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...', Object(pluginbuddy_zbdir))
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1690): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1515): pb_backupbuddy_backup->backup_zip_files_standard()
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('q2vcn78eih')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('q2vcn78eih')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown; file => C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php; line => 1677; .
+PHP_ERROR Error #32893. Fatal PHP error encountered:type => 1; message => Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php:1677
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zipbuddy.php(1439): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...', Object(pluginbuddy_zbdir))
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1690): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1515): pb_backupbuddy_backup->backup_zip_files_standard()
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('yjxr5ur1aj')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('yjxr5ur1aj')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown; file => C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\zipbuddy\zbzippclzip.php; line => 1677; .
+PHP_ERROR Error #32893. Fatal PHP error encountered:type => 1; message => Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php:1868
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zipbuddy.php(2529): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(2051): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1511): pb_backupbuddy_backup->backup_zip_files_alternate(Array)
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('x1atij1vb5')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('x1atij1vb5')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown; file => C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php; line => 1868; .
+PHP_ERROR Error #32893. Fatal PHP error encountered:type => 1; message => Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php:1868
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zipbuddy.php(2529): pluginbuddy_zbzippclzip->create('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#1 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(2051): pluginbuddy_zipbuddy->add_directory_to_zip('C:/Users/temp/D...', 'C:\\xampp\\htdocs...', Array, 'C:/Users/temp/D...')
+#2 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1511): pb_backupbuddy_backup->backup_zip_files_alternate(Array)
+#3 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\classes\backup.php(1039): pb_backupbuddy_backup->backup_zip_files()
+#4 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(102): pb_backupbuddy_backup->process_backup('dvqfkfi5sd')
+#5 C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\controllers\cron.php(83): pb_backupbuddy_cron->_process_backup('dvqfkfi5sd')
+#6 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): pb_backupbuddy_cron->cron('process_backup', Array, 0)
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\membershiptask\wp-cron.php(138): do_action_ref_array('backupbuddy_cro...', Array)
+#10 {main}
+  thrown; file => C:\xampp\htdocs\membershiptask\wp-content\plugins\backupbuddy\lib\xzipbuddy\zbzippclzip.php; line => 1868; .
