@@ -1,0 +1,40 @@
+2021-05-26T23:21:15+00:00 CRITICAL Uncaught TypeError: array_intersect_key(): Argument #1 ($array) must be of type array, string given in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php:1411
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1411): array_intersect_key('id', Array)
+#1 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1333): WP_REST_Server->get_data_for_route('/awdp/v1/rules/...', Array, 'view')
+#2 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1223): WP_REST_Server->get_data_for_routes(Array, 'view')
+#3 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1139): WP_REST_Server->get_index(Object(WP_REST_Request))
+#4 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(985): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/', Array, NULL)
+#5 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(412): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 C:\xampp\htdocs\membershiptask\wp-includes\rest-api.php(354): WP_REST_Server->serve_request('/')
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): rest_api_loaded(Object(WP))
+#8 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\membershiptask\wp-includes\class-wp.php(388): do_action_ref_array('parse_request', Array)
+#11 C:\xampp\htdocs\membershiptask\wp-includes\class-wp.php(750): WP->parse_request('')
+#12 C:\xampp\htdocs\membershiptask\wp-includes\functions.php(1291): WP->main('')
+#13 C:\xampp\htdocs\membershiptask\wp-blog-header.php(16): wp()
+#14 C:\xampp\htdocs\membershiptask\index.php(17): require('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php on line 1411
+
+2021-05-26T23:30:49+00:00 CRITICAL Uncaught TypeError: array_intersect_key(): Argument #1 ($array) must be of type array, string given in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php:1411
+Stack trace:
+#0 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1411): array_intersect_key('id', Array)
+#1 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1333): WP_REST_Server->get_data_for_route('/awdp/v1/rules/...', Array, 'view')
+#2 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1223): WP_REST_Server->get_data_for_routes(Array, 'view')
+#3 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(1139): WP_REST_Server->get_index(Object(WP_REST_Request))
+#4 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(985): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/', Array, NULL)
+#5 C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php(412): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 C:\xampp\htdocs\membershiptask\wp-includes\rest-api.php(354): WP_REST_Server->serve_request('/')
+#7 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(292): rest_api_loaded(Object(WP))
+#8 C:\xampp\htdocs\membershiptask\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\membershiptask\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\membershiptask\wp-includes\class-wp.php(388): do_action_ref_array('parse_request', Array)
+#11 C:\xampp\htdocs\membershiptask\wp-includes\class-wp.php(750): WP->parse_request('')
+#12 C:\xampp\htdocs\membershiptask\wp-includes\functions.php(1291): WP->main('')
+#13 C:\xampp\htdocs\membershiptask\wp-blog-header.php(16): wp()
+#14 C:\xampp\htdocs\membershiptask\index.php(17): require('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\membershiptask\wp-includes\rest-api\class-wp-rest-server.php on line 1411
+
